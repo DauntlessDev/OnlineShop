@@ -1,7 +1,8 @@
-package com.dauntlessdev.onlineshop
+package com.dauntlessdev.onlineshop.Controller
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.dauntlessdev.onlineshop.R
 
 class MainActivity : AppCompatActivity() {
 
